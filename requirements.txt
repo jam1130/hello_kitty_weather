@@ -1,0 +1,8 @@
+requests==2.31.0
+schedule==1.2.1
+plyer==2.1.0
+python-dotenv==1.0.0
+kivy==2.2.1
+kivymd==1.1.1
+flask==2.3.3
+apscheduler==3.10.1 
