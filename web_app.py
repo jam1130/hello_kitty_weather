@@ -13,7 +13,7 @@ load_dotenv()
 app = Flask(__name__)
 
 # 和风天气API配置
-WEATHER_API_KEY = os.getenv('WEATHER_API_KEY')
+WEATHER_API_KEY = ‘4da911dbf9534137838473f66fcbd2fd’
 CITY_ID = os.getenv('CITY_ID', '101010100')  # 默认北京
 CITY_NAME = os.getenv('CITY_NAME', '北京')  # 默认城市名称
 
